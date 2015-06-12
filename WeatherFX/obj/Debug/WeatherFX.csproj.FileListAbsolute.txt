@@ -1,0 +1,6 @@
+C:\Users\Greg\Desktop\W\WeatherFX\WeatherFX\bin\Debug\WeatherFX.dll
+C:\Users\Greg\Desktop\W\WeatherFX\WeatherFX\bin\Debug\WeatherFX.pdb
+C:\Users\Greg\Desktop\W\WeatherFX\WeatherFX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Greg\Desktop\W\WeatherFX\WeatherFX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Greg\Desktop\W\WeatherFX\WeatherFX\obj\Debug\WeatherFX.dll
+C:\Users\Greg\Desktop\W\WeatherFX\WeatherFX\obj\Debug\WeatherFX.pdb

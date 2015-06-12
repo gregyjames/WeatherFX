@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherFX", "WeatherFX\WeatherFX.csproj", "{802CB358-EA38-406B-B56D-30DC06D514FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherFXtest", "WeatherFXtest\WeatherFXtest.csproj", "{D5364716-C95A-431F-8E45-E5C3FCEA34EF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{802CB358-EA38-406B-B56D-30DC06D514FD} = {802CB358-EA38-406B-B56D-30DC06D514FD}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802CB358-EA38-406B-B56D-30DC06D514FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802CB358-EA38-406B-B56D-30DC06D514FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802CB358-EA38-406B-B56D-30DC06D514FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802CB358-EA38-406B-B56D-30DC06D514FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5364716-C95A-431F-8E45-E5C3FCEA34EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5364716-C95A-431F-8E45-E5C3FCEA34EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5364716-C95A-431F-8E45-E5C3FCEA34EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5364716-C95A-431F-8E45-E5C3FCEA34EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
